@@ -1,0 +1,2 @@
+# Tri_classa_isklychenii_unasledovannih_ot_BaseException
+3 класса исключений унаследованных от BaseException
